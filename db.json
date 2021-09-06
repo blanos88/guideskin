@@ -1,0 +1,104 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "facebook",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+        "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
+		
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://i.ibb.co/tcMyhkD/output-ZGd5-W5.gif",
+        "ImageBannerURL" : "https://i.ibb.co/tcMyhkD/output-ZGd5-W5.gif"
+		
+      },
+
+    "items": [
+      {
+        "title": "Assault Rifles: Lively Beast XM8",
+        "image": "https://i.ibb.co/WvZgp56/1594919305604.png",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "Get Diamonds",
+		"setLink": "https://www.youtube.com/watch?v=NEQa9U6zONA",
+        "image_link": "https://www.google.com",
+        "text": "The Lively Beast skin suddenly became one of the most lethal ones post an update from the past in which the Devs upgraded the default stats of the XM8 and the AN94. The insane rate of fire and considerable damage make this skin one of the best, if not the best AR skin.",
+        "isNative": true,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Cupid SCAR",
+        "image": "https://i.ibb.co/Tt6vf4F/1594919395131.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "https://i.ibb.co/tcMyhkD/output-ZGd5-W5.gif",
+        "text": "Cupid SCAR is second only to the strongest SCAR skin in-game, the ‘Titanium SCAR‘ but it’s super rare and only makes a comeback in the Incubator. ‘Mystic Seeker‘ SCAR also gives a tough competition to Cupid SCAR but then again, it’s exclusively available in the Weapon Royale, only, for now. Hence, Cupid SCAR is the skin to go for.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Dragon AK-47",
+        "image": "https://i.ibb.co/pPXmCn1/1594919652240.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Dragon AK-47, one of the most popular skins among the veterans of Free Fire. This gun offers insane damage and stability over the default skin. AK always becomes much more stable when you use it along with Laura’s skill ‘Sharpshooter‘. That skill increases accuracy when scoped-in. Though, it’s not that easy to do drag headshots with this skin or with this gun, in general. But still, if a head connects it’s an instant kill because of its high firepower.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Apocalyptic Red M1014",
+        "image": "https://i.ibb.co/HX2sm6D/ff1-removebg-preview.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This Incubator skin is from the latest m1014 skin collection to be added in the game under the ‘Apocalyptic‘ series, part of the ‘Rampage 2.0‘. The skin, with its rate of fire, serves to be a very dangerous weapon against all sorts of other short-range weapons. This gun skin offers no damage boosts and might cost you heavily if you end up missing a few shots. Though, it makes drag headshots relatively easier.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": " Tropical Parrot M1887",
+        "image": "https://i.ibb.co/XWp3TgS/1594919799021.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "The M1887 is deadly itself, and now with this skin, it’s gotten even more lethal. This shotgun was introduced a few months ago and it became an instant hit among the players. It’s so because of its insane range and firepower. This skin offers an accuracy boost which does help but is hardly noticeable.",
+        "isNative": false,
+		"background": "#00FF00"
+      },
+      {
+        "title": "Flashing Spade MP40",
+        "image": "https://i.ibb.co/3dShrj4/ff3-removebg-preview.png",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "This gun skin is a part of the ‘Poker MP40‘ Incubator collection. MP40 gun can be called the beginner’s gun in Free Fire. Many prefer this gun over shotguns because it’s easier to control and use.  This skin with level 3 attachments can eat up entire squads alone with having to reload only once. Though, it’s not that easy to perform drag headshots with the MP40 as is the case with other SMGs like the Thompson and MP5. But still, it’s a pretty great skin and not impossible to perform drags with. Being an Incubator skin, it, for sure, looks even better than the ‘legendary’ skins in terms of design and visuals.",
+        "isNative": false,
+		"background": "#00FF00"
+      }
+    ]
+
+  }
+}
